@@ -18,10 +18,12 @@ Passo 2: Verificar a Instalação do Python e do pip
 
   2.	Verificar a Instalação do Python:
       o	No Prompt de Comando, digite o seguinte e pressione Enter:
-    	
+
+´´´sh
         python --version
-      
-     o	Você deve ver a versão do Python instalada.
+´´´
+     
+      o Você deve ver a versão do Python instalada.
 
   4.	Verificar a Instalação do pip:
      o	No Prompt de Comando, digite o seguinte e pressione Enter:
