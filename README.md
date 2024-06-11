@@ -26,9 +26,9 @@ Passo 2: Verificar a Instalação do Python e do pip
   4.	Verificar a Instalação do pip:
      o	No Prompt de Comando, digite o seguinte e pressione Enter:
 
-        ```
+```
         pip --version
-        ```
+```
         
    o Você deve ver a versão do pip instalada.
     	
@@ -36,9 +36,9 @@ Passo 3: Instalar a Biblioteca pytube
   1.	Instalar pytube:
     o	No Prompt de Comando, digite o seguinte e pressione Enter:
 
-      ```
+
       pip install pytube
-      ```
+      
       
 Passo 4: Baixar e Preparar o Script Python
   1.	Baixar o Script:
